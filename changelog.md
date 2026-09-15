@@ -1,6 +1,6 @@
 # The Modding Tree changelog:
 
-### V2.7.-1
+### v2.7.-1
 - Removed break_eternity.js
 
 ### v2.6.6.2 = 9/9/21
