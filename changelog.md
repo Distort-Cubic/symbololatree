@@ -1,5 +1,8 @@
 # The Modding Tree changelog:
 
+### V2.7.-1
+- Removed break_eternity.js
+
 ### v2.6.6.2 = 9/9/21
 - nodeStyle can now be used to set fonts.
 
